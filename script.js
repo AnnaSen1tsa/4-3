@@ -24,3 +24,4 @@ function StrCheck (maxLength, str) {
 
 //StrCheck();
 StrCheck(15, title1);
+//hello
